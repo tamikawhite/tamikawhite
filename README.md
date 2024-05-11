@@ -21,7 +21,7 @@
 
 <h2>📄 Certifications</h2>
 - <b>Microsoft</b>
-  [Deploying Azure Linux VMs with Terraform](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  [Add cert link here](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2> 🤳 Connect with me:</h2>
 
