@@ -5,10 +5,10 @@
 - <b>Terraform </b>
   - [Deploying an Azure Linux VM with Terraform](https://github.com/tamikawhite/Terraform)
 - <b>Bash Scripts</b>
-  - [Installing Rancher](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Installing Jenkins](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Add something here](https://github.com/joshmadakor1/AD_PS)
-  - [Add something here](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Installing Rancher](https://github.com/tamikawhite/BashScripts)
+  - [Installing Jenkins](https://github.com/tamikawhite/BashScripts)
+  - [Add something here](https://github.com/tamikawhite/BashScripts)
+  - [Add something here](https://github.com/tamikawhite/BashScripts)
 - <b>Azure</b>
   - [Add something here](https://github.com/joshmadakor1/EncrypterPOC)
   - [Add something here](https://github.com/joshmadakor1/DecrypterPOC)
