@@ -3,7 +3,7 @@
 <h2>👩‍💻 Azure & Platform Engineer Projects:</h2>
 
 - <b>Terraform </b>
-  - [Deploying Azure Linux VMs with Terraform](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Deploying an Azure Linux VM with Terraform](https://github.com/tamikawhite/Terraform)
 - <b>Bash Scripts</b>
   - [Installing Rancher](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Installing Jenkins](https://github.com/joshmadakor1/Jwipe.PowerShell)
