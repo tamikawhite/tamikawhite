@@ -18,7 +18,7 @@
   - [Scaling a Cluster](https://github.com/tamikawhite/Rancher)
  
 - <b>Jenkins</b>
-  - [Building an Application Using a Jenkins Job]()
+  - [Building an Application Using a Jenkins Job](https://github.com/tamikawhite/Jenkins)
 
 <h2>📄 Certifications</h2>
 
