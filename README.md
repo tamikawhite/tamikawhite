@@ -9,13 +9,13 @@
   - [Installing Jenkins on a Red Hat Linux VM](https://github.com/tamikawhite/BashScripts)
   
 - <b>Azure</b>
-  - [Deploying an App in Azure](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Azure Playbooks](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Deploying an App in Azure](https://github.com/tamikawhite/Azure)
+  - [Azure Playbooks](https://github.com/tamikawhite/Azure)
   
 - <b>Rancher</b>
-  - [Monitoring an App and Cluster Metrics](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Monitoring an App and Cluster Security](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Scaling a Cluster](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Monitoring an App and Cluster Metrics]()
+  - [Monitoring an App and Cluster Security]()
+  - [Scaling a Cluster]()
  
 - <b>Jenkins</b>
   - [Building an Application Using a Jenkins Job](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
