@@ -10,14 +10,16 @@
   - [Add something here](https://github.com/tamikawhite/BashScripts)
   - [Add something here](https://github.com/tamikawhite/BashScripts)
 - <b>Azure</b>
-  - [Add something here](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Add something here](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Add something here](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Deploying an App in Azure](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Azure Playbooks](https://github.com/joshmadakor1/DecrypterPOC)
+  
 - <b>Rancher</b>
-  - [Add something here](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Monitoring an App and Cluster Metrics](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Monitoring an App and Cluster Security](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Scaling a Cluster](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
 - <b>Jenkins</b>
-  - [Add something here](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Building an Application Using a Jenkins Job](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📄 Certifications</h2>
 
