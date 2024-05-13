@@ -7,8 +7,7 @@
 - <b>Bash Scripts</b>
   - [Installing Rancher on a Red Hat Linux VM](https://github.com/tamikawhite/BashScripts)
   - [Installing Jenkins on a Red Hat Linux VM](https://github.com/tamikawhite/BashScripts)
-  - [Add something here](https://github.com/tamikawhite/BashScripts)
-  - [Add something here](https://github.com/tamikawhite/BashScripts)
+  
 - <b>Azure</b>
   - [Deploying an App in Azure](https://github.com/joshmadakor1/EncrypterPOC)
   - [Azure Playbooks](https://github.com/joshmadakor1/DecrypterPOC)
