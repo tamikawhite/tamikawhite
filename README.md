@@ -5,8 +5,8 @@
 - <b>Terraform </b>
   - [Deploying an Azure Linux VM with Terraform](https://github.com/tamikawhite/Terraform)
 - <b>Bash Scripts</b>
-  - [Installing Rancher](https://github.com/tamikawhite/BashScripts)
-  - [Installing Jenkins](https://github.com/tamikawhite/BashScripts)
+  - [Installing Rancher on a Red Hat Linux VM](https://github.com/tamikawhite/BashScripts)
+  - [Installing Jenkins on a Red Hat Linux VM](https://github.com/tamikawhite/BashScripts)
   - [Add something here](https://github.com/tamikawhite/BashScripts)
   - [Add something here](https://github.com/tamikawhite/BashScripts)
 - <b>Azure</b>
@@ -20,9 +20,22 @@
   - [Add something here](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📄 Certifications</h2>
-- <b>Microsoft</b>
-  [Add cert link here](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
+- <b>Microsoft</b>
+
+  [AZ-104: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/TAMIKAWHITE-1077/9F1C89387915353D?sharingId=D13252E7AB64425F)
+  
+  [MCSA: Windows Server 2016](https://learn.microsoft.com/en-us/credentials/certifications/mcsa-windows-server-2016-certification/?sharingId=D13252E7AB64425F)
+
+  [MCSA: Windows Server 2012](https://learn.microsoft.com/en-us/credentials/certifications/mcsa-windows-server-certification/?sharingId=D13252E7AB64425F)
+
+- <b>CompTIA</b>
+
+  [CompTIA Security+](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+  
+  [CompTIA A+](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
