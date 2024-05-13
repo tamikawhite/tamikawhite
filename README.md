@@ -13,12 +13,12 @@
   - [Azure Playbooks](https://github.com/tamikawhite/Azure)
   
 - <b>Rancher</b>
-  - [Monitoring an App and Cluster Metrics]()
-  - [Monitoring an App and Cluster Security]()
-  - [Scaling a Cluster]()
+  - [Monitoring an App and Cluster Metrics](https://github.com/tamikawhite/Rancher)
+  - [Monitoring an App and Cluster Security](https://github.com/tamikawhite/Rancher)
+  - [Scaling a Cluster](https://github.com/tamikawhite/Rancher)
  
 - <b>Jenkins</b>
-  - [Building an Application Using a Jenkins Job](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Building an Application Using a Jenkins Job]()
 
 <h2>📄 Certifications</h2>
 
