@@ -2,12 +2,6 @@
 
 <h2>👩‍💻 Azure & Platform Engineer Projects:</h2>
 
-- <b>Terraform </b>
-  - [Deploying an Azure Linux VM with Terraform](https://github.com/tamikawhite/Terraform)
-- <b>Bash Scripts</b>
-  - [Installing Rancher on a Red Hat Linux VM](https://github.com/tamikawhite/BashScripts)
-  - [Installing Jenkins on a Red Hat Linux VM](https://github.com/tamikawhite/BashScripts)
-  
 - <b>Azure</b>
   - [Deploying an App in Azure](https://github.com/tamikawhite/Azure)
   - [Azure Playbooks](https://github.com/tamikawhite/Azure)
