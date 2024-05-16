@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tamika!</h1>
 
-<h2>👩‍💻 Azure & GitOps Projects:</h2>
+<h2>👩‍💻 Azure & Kubernetes Projects:</h2>
 
 - <b>Azure</b>
   - [Deploying an App in Azure](https://github.com/tamikawhite/Azure)
